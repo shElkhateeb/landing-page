@@ -29,6 +29,9 @@ This project is to add navigation to a static web page using JavaScript and it h
 ### Stackoverflow
 - [How can I tell if a DOM element is visible in the current viewport?](https://stackoverflow.com/questions/123999/how-can-i-tell-if-a-dom-element-is-visible-in-the-current-viewport)
 
+## Starter Code
+[Landing Page](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
+
 ## Author
 - Shorouk Elkhateeb
 
