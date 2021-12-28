@@ -144,9 +144,6 @@ section:nth-of-type(odd) .landing__container::before {
     opacity: 0;
     transition: ease 0.5s all;
 }
-h2 :hover {
-    font-size: smaller;
-}
 
 section:nth-of-type(even) .landing__container::before {
     content: '';
